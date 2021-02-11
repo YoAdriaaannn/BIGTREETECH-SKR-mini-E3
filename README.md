@@ -1,4 +1,4 @@
-# The YoAdriaaannn edit of the imfamous Marlin running on the BigTreeTech SKR Mini E3
+# The YoAdriaaannn edit of the imfamous Marlin running on the BigTreeTech SKR Mini E3 ****WIP!!!!!****
 If you so happen to have a printer just like mine, this edit will work for you. If you do not, you may wish to visit the official BigTreeTech Repo and fork your own copy. 
 
 This fork will work for most Ender 3 and clones. Or basically any 3 axis 3d printer with a build volume of 235mm x 235mm x250. It is edited to have the following features:
